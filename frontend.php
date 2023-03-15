@@ -3,7 +3,7 @@
 <script src="jquery.min.js"></script>
 <h2 id="heading">Insert Data</h2>
 <hr>
-<!-- <form id="form" method="POST"> -->
+
     <label>Name:</label><input type="text" name="emp_name" id="name"><br>
     <label>Age:</label><input type="text" name="emp_age" id="age"><br>
     <label>Gender:</label><input type="text" name="emp_gender" id="gender"><br>
@@ -11,7 +11,7 @@
     <label>Email:</label><input type="text" name="emp_email" id="email"><br>
     <label>Password:</label><input type="text" name="emp_pswd" id="pswd"><br>
     <button onclick="insert()" id="btn">Submit</button>
-    <!-- </form> -->
+ 
     <hr>
 <h2>Fetch data</h2>
 <hr>
